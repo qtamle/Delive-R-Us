@@ -1,0 +1,292 @@
+fileFormatVersion: 2
+guid: a98b20cab9ed8c9448a818f84df45831
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Car_10C_D
+    second: {fileID: 2100000, guid: 75f35aef54afed443b81190bd5185c7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Car_10D_D
+    second: {fileID: 2100000, guid: a8043b9168030ca449de8918d837f24c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Car_11A_D
+    second: {fileID: 2100000, guid: 554541da2858c22448c2743e4a304fce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Car_14C_D
+    second: {fileID: 2100000, guid: e0304bf654d7cfa428a8e3a4a89766f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Car_15B_D
+    second: {fileID: 2100000, guid: abff9be1e885da1459ad3506bfe29d52, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Car_16A_D
+    second: {fileID: 2100000, guid: 5198b8d8dbfbe7541857a9c794fdc33c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Car_17A_D
+    second: {fileID: 2100000, guid: 5da03e01d7b20e34b84023415a8ee76e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Car_2D_D
+    second: {fileID: 2100000, guid: 1938571e53a411f4689ce4cc5efb8c8c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Car_3B_D
+    second: {fileID: 2100000, guid: 11624d81e509b08469d3a349bc5ddd1f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Car_4D_D
+    second: {fileID: 2100000, guid: 60356182f346054408e2b1ef9bf89b84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Car_4E_D
+    second: {fileID: 2100000, guid: e6ccef71ac00ff34d8fe9afc8b5c6853, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Car_6D_D
+    second: {fileID: 2100000, guid: 8f5167ee8eb10fa43aeb5c821ed9ad91, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Car_7D_D
+    second: {fileID: 2100000, guid: 1a22567ed2f2c2341bde6f294a3fdbac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Car_7F_D
+    second: {fileID: 2100000, guid: 83208a0040237244fa265bd328978844, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Car_8D_D
+    second: {fileID: 2100000, guid: 93c2f9162d174464182c3fcecffcf560, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Car_9A_D
+    second: {fileID: 2100000, guid: 684bea3781c64324195f46aef5bed68d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light_Blue1
+    second: {fileID: 2100000, guid: 67ab82e2c7a54324faa194906e83a5f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light_Red
+    second: {fileID: 2100000, guid: 4814aacf6312e494e99d780700ccfd8b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scooter_1A_D
+    second: {fileID: 2100000, guid: 6f7704c29f00ef64aaa0b163120f926a, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Car_10C_D
+    second: {fileID: 2800000, guid: dd90ce34938b7ed43a4677defca0a2bc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Car_10D_D
+    second: {fileID: 2800000, guid: dbdf4f44fe9017c44a0d5bc65470b48a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Car_11A_D
+    second: {fileID: 2800000, guid: b68ddab4b5812af4cbce3199dc6b1b67, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Car_14C_D
+    second: {fileID: 2800000, guid: 2d9a1f0c15cabb54b8285b9b8a49e666, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Car_15B_D
+    second: {fileID: 2800000, guid: d0d6567d5c5f0474eb80e56ee0c0743e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Car_16A_D
+    second: {fileID: 2800000, guid: b8507cd90e2180b479b5096b2f49025d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Car_17A_D
+    second: {fileID: 2800000, guid: 476411ecdc8575c4d979e8a287a1586b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Car_2D_D
+    second: {fileID: 2800000, guid: 0f02a2443d7746449b8adfb4ec0aee05, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Car_3B_D
+    second: {fileID: 2800000, guid: cf7107fa6f20d5649ab6caff4a6d8718, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Car_4D_D
+    second: {fileID: 2800000, guid: 54bfd63fc1b808c4d8690ec288417724, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Car_4E_D
+    second: {fileID: 2800000, guid: ba7d64f88e7d06b47a49ffe8a8e0dc8f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Car_6D_D
+    second: {fileID: 2800000, guid: d00bcceee3d7af943862c185ee448cb4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Car_7D_D
+    second: {fileID: 2800000, guid: 9e27cb5acc27b624db26dbdca5f22727, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Car_7F_D
+    second: {fileID: 2800000, guid: 5f1f65ac430185f4285064ddebf4c283, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Car_8D_D
+    second: {fileID: 2800000, guid: 4e404c8664cb0f943bd07fed88d9b4cc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Car_9A_D
+    second: {fileID: 2800000, guid: 6323bd6e74f0dee4aa3042b436eceb23, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Light_Neutral
+    second: {fileID: 2800000, guid: c982a1ded397b09429eca831553e1bbb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Scooter_1A_D
+    second: {fileID: 2800000, guid: 1f45b08b17b8d484fa08aef970451c39, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
