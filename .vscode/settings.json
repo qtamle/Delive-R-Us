@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "DeliveR-Us-003.sln"
+    "dotnet.defaultSolution": "Delive-R-Us.sln"
 }
