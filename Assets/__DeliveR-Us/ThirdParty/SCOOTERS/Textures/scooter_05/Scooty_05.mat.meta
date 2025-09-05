@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bc359b8ea3ec99b42abd1a112c54e3f0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234581
+  packageName: Scooters
+  packageVersion: 1.0
+  assetPath: Assets/SCOOTERS/Textures/scooter_05/Scooty_05.mat
+  uploadId: 549840

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 46d159f3bbc9da6439c8d5d3d46f93fb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234581
+  packageName: Scooters
+  packageVersion: 1.0
+  assetPath: Assets/SCOOTERS/Materials/Scooter_01_V01.mat
+  uploadId: 549840

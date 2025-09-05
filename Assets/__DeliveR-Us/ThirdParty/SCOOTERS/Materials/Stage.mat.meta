@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2bf184e713602d8479b03c656559fcc2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234581
+  packageName: Scooters
+  packageVersion: 1.0
+  assetPath: Assets/SCOOTERS/Materials/Stage.mat
+  uploadId: 549840

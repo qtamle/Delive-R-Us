@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8f46bd0b144db5d48a2ca9af95baa3fa
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234581
+  packageName: Scooters
+  packageVersion: 1.0
+  assetPath: Assets/SCOOTERS/Prefabs/scooter1_Base_01_03.prefab
+  uploadId: 549840

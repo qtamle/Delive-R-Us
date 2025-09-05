@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b784da870b94d874eadfdc67f3a40aa8
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234581
+  packageName: Scooters
+  packageVersion: 1.0
+  assetPath: Assets/SCOOTERS/Prefabs/Stage.prefab
+  uploadId: 549840

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e95f4deb7c137774086495f0edd30776
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234581
+  packageName: Scooters
+  packageVersion: 1.0
+  assetPath: Assets/SCOOTERS/Animations/SceneSetup.controller
+  uploadId: 549840

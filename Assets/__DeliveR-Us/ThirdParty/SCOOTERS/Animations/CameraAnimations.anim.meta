@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1baedf7877d5faf45a7a76e80686974c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234581
+  packageName: Scooters
+  packageVersion: 1.0
+  assetPath: Assets/SCOOTERS/Animations/CameraAnimations.anim
+  uploadId: 549840
