@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ea93f97626014f4bb59dff714b51de5, type: 3}
+  m_Name: Avatars Data
+  m_EditorClassIdentifier: 
+  _avatars:
+  - icon: {fileID: 21300000, guid: e78e4a9dc4742ee45b736ea94fcf52df, type: 3}
+    prefab: {fileID: 6720154922840694447, guid: b68bdab0e5c190f4dace2b55f49dfb5b, type: 3}
+  - icon: {fileID: 21300000, guid: 05d463b6ed957e74b839e9263d51d1b1, type: 3}
+    prefab: {fileID: 1706436831142730563, guid: 5fae909d679e30943a05748eb5d11c68, type: 3}
+  - icon: {fileID: 21300000, guid: 819b50ba6b6f5fa46ad8000f50878e0a, type: 3}
+    prefab: {fileID: 9132964845378733585, guid: 4d6557eab6c1e544a913970f5b5b79a0, type: 3}
+  - icon: {fileID: 21300000, guid: ba4f3709bc4e79b40ae6255924b7698b, type: 3}
+    prefab: {fileID: 2261318420260756663, guid: 90cdb750d65594147aa603bd50547f21, type: 3}
+  - icon: {fileID: 21300000, guid: b768130dee98879468d5eb1a49145e0c, type: 3}
+    prefab: {fileID: 1809889996319390685, guid: 71d6ac8ada01c4b4db6fa2b6ad84da8e, type: 3}
+  - icon: {fileID: 21300000, guid: a74dda3aec674b94cb1c3989c3ecc3c7, type: 3}
+    prefab: {fileID: 2051769983809631292, guid: dd6f053f5e1538b4081d5864f7027829, type: 3}
+  - icon: {fileID: 21300000, guid: ea7d5ca7479a4a247b99001ea4835ab5, type: 3}
+    prefab: {fileID: 3171602940925265327, guid: 50ba5231b944f884898492381d4e29fc, type: 3}
+  - icon: {fileID: 21300000, guid: 04b9efaf083d7f74391b6c2f2f923c15, type: 3}
+    prefab: {fileID: 3433047793921660523, guid: 5b6693e307a33114d9a0301bf75b69c3, type: 3}
+  - icon: {fileID: 21300000, guid: 96a58202e067ab942b6ad2c1b84fbd21, type: 3}
+    prefab: {fileID: 5285075831194161302, guid: 4f1776910791fd34dac83614748b00dc, type: 3}
+  - icon: {fileID: 21300000, guid: 6d84f0570f1c80e458ffa0a3d4d57f8a, type: 3}
+    prefab: {fileID: 4633815132900244048, guid: 19e101b9784d3c7488e17d51541cdb1f, type: 3}
+  - icon: {fileID: 21300000, guid: 9e84d0f05c1449f43b2bcc5735a5024b, type: 3}
+    prefab: {fileID: 2252913624575559749, guid: 8607e2c72f3eacf418b827a251a53771, type: 3}
+  - icon: {fileID: 21300000, guid: 4093ae79dc0a5df43a89cf421703ba60, type: 3}
+    prefab: {fileID: 911400357625491355, guid: 27e633399886f3b44a1c4751a31c3dc2, type: 3}
+  - icon: {fileID: 21300000, guid: ba7d10f5b8db73d4b9b1bb0335ef340b, type: 3}
+    prefab: {fileID: 4333027581788519372, guid: 9c186d930c8a6b942b170d78cc7ede8a, type: 3}
+  - icon: {fileID: 21300000, guid: c49eda6754725dc489352388f0493f7f, type: 3}
+    prefab: {fileID: 3395266664490186413, guid: 973c5a62cca15e543931f76331716dc4, type: 3}
+  - icon: {fileID: 21300000, guid: 9ea5009cb331edd4483ded0e835ca2f3, type: 3}
+    prefab: {fileID: 1213829283023432225, guid: 75bb007680a73f14f97b85ac081239a2, type: 3}
