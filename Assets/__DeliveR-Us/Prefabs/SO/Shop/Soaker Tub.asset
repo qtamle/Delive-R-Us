@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63fc350731f06c545b49d6f5b70fad50, type: 3}
+  m_Name: Soaker Tub
+  m_EditorClassIdentifier: 
+  IPrefab: {fileID: 2907384831806781682, guid: 5201ba18e0c66df43891ef5e6ed21377, type: 3}
+  _iData:
+    ItemName: Soaker Tub
+    ItemDescription: An elegant standalone bathtub offering deep immersion and ultimate
+      comfort. Perfect for luxury spaces or minimalist spa-style bathrooms.
+    ItemIcon: {fileID: 21300000, guid: 4267f741a99c429439c3d9152d562509, type: 3}
+    ItemPrice: 160
+    isBought: 0

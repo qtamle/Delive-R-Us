@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63fc350731f06c545b49d6f5b70fad50, type: 3}
+  m_Name: Vanity Mirror
+  m_EditorClassIdentifier: 
+  IPrefab: {fileID: 6236002210839367310, guid: 2e54ab11025218442bb7666ef63494af, type: 3}
+  _iData:
+    ItemName: Vanity Mirror
+    ItemDescription: A mirror with minimalistic borders and soft backlighting. Enhances
+      bathroom elegance while providing clear reflection for daily grooming.
+    ItemIcon: {fileID: 21300000, guid: 43d0841d6c19c854ca53d69418cb2585, type: 3}
+    ItemPrice: 90
+    isBought: 0

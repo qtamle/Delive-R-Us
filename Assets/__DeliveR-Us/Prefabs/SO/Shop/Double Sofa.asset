@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63fc350731f06c545b49d6f5b70fad50, type: 3}
+  m_Name: Double Sofa
+  m_EditorClassIdentifier: 
+  IPrefab: {fileID: 8742203201628769385, guid: dbc5654e7cb62c04cb9d7e3f742cce1b, type: 3}
+  _iData:
+    ItemName: Double Sofa
+    ItemDescription: A vibrant two-tone blue and yellow double sofa, ideal for lounging
+      with style. Adds a playful touch to modern interiors.
+    ItemIcon: {fileID: 21300000, guid: bf03fa586818e234cb5e80078747ade7, type: 3}
+    ItemPrice: 120
+    isBought: 0

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63fc350731f06c545b49d6f5b70fad50, type: 3}
+  m_Name: Urban Skyscrapers
+  m_EditorClassIdentifier: 
+  IPrefab: {fileID: 1941035928208615485, guid: 6aacb5d4495196e41bd41acd2e68610c, type: 3}
+  _iData:
+    ItemName: Urban Skyscrapers
+    ItemDescription: A bold black-and-white cityscape capturing towering skyscrapers.
+      Best suited for urban loft or contemporary settings.
+    ItemIcon: {fileID: 21300000, guid: 63b74860d763755419c5b6bc95d7e9de, type: 3}
+    ItemPrice: 70
+    isBought: 0

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63fc350731f06c545b49d6f5b70fad50, type: 3}
+  m_Name: Starry Landscape
+  m_EditorClassIdentifier: 
+  IPrefab: {fileID: 5076923245269819462, guid: 2324bdc7f21e4374b8aeb44668a405b0, type: 3}
+  _iData:
+    ItemName: Starry Landscape
+    ItemDescription: A dreamy, cosmic-inspired artwork featuring mountains and a
+      magical night sky. Adds a mystical vibe to your walls.
+    ItemIcon: {fileID: 21300000, guid: b227e5a819464e146bab2ca37c0f42ec, type: 3}
+    ItemPrice: 75
+    isBought: 0

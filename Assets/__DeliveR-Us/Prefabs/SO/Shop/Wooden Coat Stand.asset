@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63fc350731f06c545b49d6f5b70fad50, type: 3}
+  m_Name: Wooden Coat Stand
+  m_EditorClassIdentifier: 
+  IPrefab: {fileID: 4116671429830868462, guid: 8935cddbb173ba3498b71f6fe40ee203, type: 3}
+  _iData:
+    ItemName: Wooden Coat Stand
+    ItemDescription: "A tall, sturdy coat hanger with multiple hooks\u2014ideal for
+      organizing jackets, hats, and scarves. Adds both function and a classic touch
+      to entryways or lobbies."
+    ItemIcon: {fileID: 21300000, guid: 9f286ff16ad61884bac1aa77e7c300d4, type: 3}
+    ItemPrice: 85
+    isBought: 0
